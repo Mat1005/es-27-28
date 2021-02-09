@@ -12,6 +12,6 @@ rubrica = {"Matteo Zaccarelli":"366 042 8604",
 "Luca Bianchi":"353 942 4324"}
 nome = input("Di chi vuoi sapere il numero?")
 if nome in rubrica:
-    print("Il numero del contatto ",nome," è:"rubrica[nome])
+    print("Il numero del contatto ",nome," è:",rubrica[nome])
 else:
     print("Il contatto ",nome," non è in rubrica.")
