@@ -6,7 +6,7 @@ CAP_dizionario = {}
 Citta_dizionario = {}
 tot = int(input("Quante sono le città?"))
 for n in range (1, tot + 1):
-    nome_citta = ("Inserire il nome della città")
+    nome_citta = input("Inserire il nome della città")
     CAP = int(input("Inserire il CAP"))
     CAP_dizionario[CAP] = nome_citta
     Citta_dizionario[nome_citta] = CAP
