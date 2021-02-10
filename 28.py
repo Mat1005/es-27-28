@@ -17,7 +17,7 @@ else:
     print("La città",citta," non è nella lista.")
 cap = input("Inserire il CAP di cui vuoi conoscere la città ")
 if cap in CAP_dizionario:
-    print("Il Cap ",cap," è della città di ",CAP_dizionario[cap])
+    print("Il CAP ",cap," è della città di ",CAP_dizionario[cap])
 else:
-    print("Il cap",cap," non è nella lista.")
+    print("Il CAP ",cap," non è nella lista.")
    
