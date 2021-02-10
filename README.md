@@ -1,1 +1,1 @@
-# es-27-28
+Esercizi 27 e 28 di pagina 185
