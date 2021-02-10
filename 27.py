@@ -1,6 +1,6 @@
 '''
 Organizza con un dizionario la rubrica telefonica.
-Fornito poi il numero della persona visualizzare poi il numerto o inviare un messaggio in caso non sia prewszente nella lista.
+Fornito poi il numero della persona visualizzare poi il numerto o inviare un messaggio in caso non sia presente nella lista.
 
 '''
 rubrica = {"Matteo Zaccarelli":"366 042 8604",
